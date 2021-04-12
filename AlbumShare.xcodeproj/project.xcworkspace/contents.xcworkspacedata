@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Simulator Screen Shot - iPod touch (7th generation) - 2021-04-12 at 19.00.45.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/vincent/Documents/swift_code/AlbumShare/AlbumShare/AlbumShare/images/Simulator Screen Shot - iPod touch (7th generation) - 2021-04-12 at 19.06.42.png">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
