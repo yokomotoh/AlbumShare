@@ -57,14 +57,7 @@ struct ImageUploaderView: View {
                         //"http://localhost:8888/test/swiftui_save_image/input.php"
                         // load with comment to mysql
                         "http://127.0.0.1:8888/test/swiftUI_save_image/inputComment.php"
-                        // load to xrea
-                        //"http://150.95.9.42:3306/test/swiftUI_save_image/inputComment.php"
-                        //"http://150.95.9.42:3306/inputComment.php"
-                        //"http://www.vinsfinsmotohama.shop/test/swiftUI_save_image/inputComment.php"
-                        //"http://150.95.9.42/test/swiftUI_save_image/inputComment.php"
-                        //"http://vinsfinsmotohama.s205.xrea.com/test/swiftUI_save_image/inputComment.php"
-                        //"http://vinsfinsmotohama.s205.xrea.com/inputComment.php"
-                        //"http://vinsfinsmotohama.s205.xrea.com/canvas-upload.php"
+
                         ) else {
                     print("invalid URL")
                     return
